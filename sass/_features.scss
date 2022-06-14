@@ -3,8 +3,9 @@
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   align-items: start;
   grid-gap: 6rem;
+  padding: 0 4rem;
   margin: 15rem 0;
-  grid-column: center-start / center-end;
+  grid-column: center-start / span 8;
 }
 
 .feature {
