@@ -31,7 +31,7 @@
   }
 
   &__img--2 {
-    width: 115%;
+    width: 105%;
     grid-row: 4 / 6;
     grid-column: 4 / 7;
     z-index: 20;
@@ -40,7 +40,6 @@
       width: 90%;
       grid-column: 4 / -1;
       grid-row: 2 / 4;
-      //transform: translateX(-100px);
     }
   }
 
